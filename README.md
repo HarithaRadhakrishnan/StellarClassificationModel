@@ -1,5 +1,5 @@
-# StellarClassificationModel
-#Stellar classification of celestial objects based on photometric filters
+StellarClassificationModel
+Stellar classification of celestial objects based on photometric filters
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, LabelEncoder
